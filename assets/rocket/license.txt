@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Space Shuttle
+* source:	https://sketchfab.com/3d-models/low-poly-space-shuttle-afa0ac2dc78744dfb54303226dcbe9b2
+* author:	SirSquiggles (https://sketchfab.com/sirsquiggles)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
